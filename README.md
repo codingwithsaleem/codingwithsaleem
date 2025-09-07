@@ -6,15 +6,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fitsaleem&label=Profile%20views&color=0e75b6&style=flat" alt="fitsaleem" /> </p>
  -->
 
-- 🌱 I’m currently Exploring **web3 || MERN Technologies**
+- 🌱 I’m currently Exploring **Full Stack Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fitsaleem](https://github.com/fitsaleem)
+- 👨‍💻 All of my projects are available at [https://github.com/codingwithsaleem](https://github.com/codingwithsaleem)
 
-- 💬 Ask me about **Web3 Next.js & SDLC**
+- 💬 Ask me about **Web Applications , Cloud Computing , Next.js & SDLC**
 
 - 📫 How to reach me **sr.saleem774@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/fitsaleem](https://github.com/fitsaleem)
+- 📄 Know about my experiences [https://github.com/codingwithsaleem](https://github.com/codingwithsaleem)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
