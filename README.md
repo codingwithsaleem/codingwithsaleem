@@ -32,7 +32,7 @@ I take full ownership of projects — from **system design and architecture to p
 `AWS` • `Docker` • `Nginx` • `CI/CD`
 
 **Databases**  
-`MongoDB` • `MySQL`
+`PostgreSQL` • `MySQL`
 
 ---
 
@@ -44,18 +44,10 @@ I take full ownership of projects — from **system design and architecture to p
 
 ---
 
-### 📂 Projects & Work
-
-👨‍💻 Explore my work:  
-👉 https://github.com/codingwithsaleem  
-
----
-
 ### 📫 Contact Me
 
 - 📧 Email: **sr.saleem774@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/saleem-raza/  
-- ▶️ YouTube: https://www.youtube.com/c/fitcodding  
 
 ---
 
