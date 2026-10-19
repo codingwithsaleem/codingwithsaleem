@@ -12,9 +12,13 @@ I specialize in taking products from initial architecture to production-grade de
 ⚡ What I Bring to the Table:
 
 • Frontend & Mobile: Next.js (SSR/SSG, SEO), React.js, React Native, Tailwind CSS, Shadcn UI
+
 • Backend & Real-Time: Node.js, NestJS, Express, REST APIs, WebSockets, Redis, BullMQ
+
 • Databases: PostgreSQL, Prisma, MongoDB, Firebase, Supabase
+
 • DevOps & Cloud: AWS (EC2, RDS, S3, ALB, VPC), Docker, Nginx, GitHub Actions (CI/CD), Vercel
+
 • Integrations: Stripe, In-App Purchases, WebSockets, Video Calling, OpenAI & OCR pipelines
 
 ---
