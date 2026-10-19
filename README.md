@@ -23,13 +23,12 @@ I specialize in taking products from initial architecture to production-grade de
 
 ---
 
-### 💡 What I Do
+### 💡 Highlights & Ownership:
 
-- ⚙️ Build scalable backend systems & APIs  
-- ☁️ Design and deploy cloud infrastructure (AWS)  
-- 🧠 Architect production-ready applications  
-- 🚀 Optimize performance and system reliability  
-- 🔐 Ensure security and best development practices  
+- ⚙️ Designed & delivered 15+ production applications across AWS and Vercel infrastructure.
+- ☁️ Engineered AI-driven pipelines using OpenAI & web scrapers for content aggregation (C2C News) and receipt-based expense parsing (Portioned) 
+- 🧠 Built scalable backends supporting real-time chat, video calling, and livestreaming for large-scale social platforms (Murge World).
+- 🚀 Optimized brand architectures and lead-generation funnels integrated directly with HubSpot & analytics toolings.
 
 ---
 
@@ -46,25 +45,7 @@ I specialize in taking products from initial architecture to production-grade de
 
 ---
 
-### 🌱 Currently Exploring
-
-- Advanced system design patterns  
-- Distributed systems & scalability  
-- Cloud optimization & cost efficiency  
-
----
-
 ### 📫 Contact Me
 
-- 📧 Email: **sr.saleem774@gmail.com**  
+- 📧 Email: **codingwithsaleem@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/saleem-raza/  
-
----
-
-### ⚡ Philosophy
-
-> Build systems that scale.  
-> Write code that lasts.  
-> Deliver solutions that matter.
-
----
